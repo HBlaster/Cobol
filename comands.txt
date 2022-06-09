@@ -1,0 +1,17 @@
+Cobol comands
+
+TAB - moverse dentro de las opciones editables
+I - Insert 
+")"+ Numero - Indentar la cantidad de posiciones que especifiques en el numero
+D - delete
+
+	**Se pueden ingresar comandos en la linea de comandos y columna de comandos**
+
+FIND 'linea de caracteres' - Buscar caracteres dentro del codigo (linea de comandos)
+C - change (linea de comandos)
+R - repetir linea (columna de comandos)
+RR - repetir un bloque (columna de comandos)
+
+scroll > HF desplazarse a la mitad de la pantalla
+	 CS Cursor
+	 PG desplazar pantalla completa
