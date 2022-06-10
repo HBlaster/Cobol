@@ -15,3 +15,19 @@ RR - repetir un bloque (columna de comandos)
 scroll > HF desplazarse a la mitad de la pantalla
 	 CS Cursor
 	 PG desplazar pantalla completa
+
+F3 - retroceder, cerrar, salir
+F2 - abrir nueva ventana dentro del emulador
+F9 - cambiar entre cada ventana
+F7 - desplazamiento hacia arriba 
+F8 - desplazamiento hacia abajo 
+F10 - desplazamiento a la derecha
+F11 - desplazamiento a la izquierda
+F12 - regresar a la pantalla los comandos que se han escrito 
+
+v - ingresar a algun programa en modo 'view'
+
+***LIBRERIAS****
+SRC - logica del programa
+JCL - compilador y ejecutor 
+LOAD - resultado de la compilacion
