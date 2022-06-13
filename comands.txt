@@ -4,6 +4,7 @@ TAB - moverse dentro de las opciones editables
 I - Insert 
 ")"+ Numero - Indentar la cantidad de posiciones que especifiques en el numero
 D - delete
+E - edit
 
 	**Se pueden ingresar comandos en la linea de comandos y columna de comandos**
 
@@ -31,3 +32,25 @@ v - ingresar a algun programa en modo 'view'
 SRC - logica del programa
 JCL - compilador y ejecutor 
 LOAD - resultado de la compilacion
+C99999 - copiar todo el codigo
+cre - crear 
+cols - desplegar todas las columnas que comprenden el programa
+
+11/06/22
+
+jcl - lob control lenguage
+
+UTILERIAS: IEFBR14
+
+IEBGENER
+DD - DATA DEFINITION
+DCB - DATA CONTROL BLOCK
+TRK - 512B
+
+13/06/22
+
+WORKING STORAGE SECTION
+
+01 WSV - W(ORKING)S(TORAGE)V(ARIABLE)
+02 WSC                     C(ONST)  
+03 WSS                     S(WITCH)  
